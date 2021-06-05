@@ -14,8 +14,8 @@ A desktop application with GUI portal that fulfils the need of any organisation'
 - **Beneficiaries** can:
   - Register and apply for donations
 
-#### Homepage Screenshot
-
+### Homepage Screenshot
+![homepage](https://github.com/asadbinkhalid/Donation-Management-System/blob/main/Images/homepage.png)
 
 ## Dependencies
 - Java
