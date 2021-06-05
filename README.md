@@ -1,6 +1,9 @@
 # Donation Management System
 A desktop application with GUI portal that fulfils the need of any organisation's donation management bookkeeping needs.
 
+## Project Description
+This desktop application is made using Java with SQL Server database using many common design principles of Object Oriented programming. Front-end of this applicationn is made using Java Swing Library
+
 ## Features
 - Three separate dashboards for Managers, Donors, and Beneficiaries
 - **Managers** can:
