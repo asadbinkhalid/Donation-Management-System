@@ -31,5 +31,6 @@ This desktop application is made using Java with SQL Server database using many 
 > ## Authors
 > 👤 **Asad Bin Khalid**
 > * Github: [@asadbinkhalid](https://github.com/asadbinkhalid)
+> 
 > 👤 **Fahad Nasir**
 > * Github: [@fahadnasir40](https://github.com/fahadnasir40)
