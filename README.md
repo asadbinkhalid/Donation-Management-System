@@ -18,7 +18,9 @@ This desktop application is made using Java with SQL Server database using many 
   - Register and apply for donations
 
 ### Homepage Screenshot
-![homepage](https://github.com/asadbinkhalid/Donation-Management-System/blob/main/Images/homepage.png)
+<p align="left">
+  <img width="400" alt="a" src="https://github.com/asadbinkhalid/Donation-Management-System/blob/main/Images/homepage.png">
+</p>
 
 ## Dependencies
 - Java
