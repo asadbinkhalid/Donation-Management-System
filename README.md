@@ -19,7 +19,7 @@ This desktop application is made using Java with SQL Server database using many 
 
 ### Homepage Screenshot
 <p align="left">
-  <img width="400" alt="a" src="https://github.com/asadbinkhalid/Donation-Management-System/blob/main/Images/homepage.png">
+  <img width="600" alt="a" src="https://github.com/asadbinkhalid/Donation-Management-System/blob/main/Images/homepage.png">
 </p>
 
 ## Dependencies
