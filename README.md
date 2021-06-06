@@ -28,10 +28,8 @@ This desktop application is made using Java with SQL Server database using many 
 - MS SQL Server JDBC
 - Apache Netbeans IDE 11.2 (or newer) with Maven
 
-## Authors
-
-👤 **Asad Bin Khalid**
-* Github: [@asadbinkhalid](https://github.com/asadbinkhalid)
-
-👤 **Fahad Nasir**
-* Github: [@fahadnasir40](https://github.com/fahadnasir40)
+> ## Authors
+> 👤 **Asad Bin Khalid**
+> * Github: [@asadbinkhalid](https://github.com/asadbinkhalid)
+> 👤 **Fahad Nasir**
+> * Github: [@fahadnasir40](https://github.com/fahadnasir40)
